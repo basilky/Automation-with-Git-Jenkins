@@ -1,5 +1,5 @@
-# git-over-http
-Sharing a Git repository via http
+AUTOMATION WITH GIT AND JENKINS
+
 1.GIT
 
 Version Control System is a software that helps software developers to work together and maintain a complete history of their work.Git,Mercurial,SVN are popular version control systems.Among them Git is the most used and actively developed open source version control system.Git was written by Linus Torvalds,the founder of linux kernel in 2005.
